@@ -1,3 +1,9 @@
 [submodule "drivebw_amac/amac_arduino"]
 	path = drivebw_amac/amac_arduino
 	url = https://github.com/AMABerkeley/amac_arduino.git
+[submodule "navigation_amac/navigation"]
+	path = navigation_amac/navigation
+	url = https://github.com/ros-planning/navigation.git
+[submodule "navigation_amac/slam_gmapping"]
+	path = navigation_amac/slam_gmapping
+	url = https://github.com/ros-perception/slam_gmapping.git
