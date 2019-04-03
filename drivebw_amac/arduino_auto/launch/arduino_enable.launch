@@ -1,0 +1,6 @@
+<launch>
+    <node name="serial_node1" pkg="rosserial_python" type="serial_node.py" output="screen">
+    <param name="port" value="/dev/serial/by-id/usb-Arduino__www.arduino.cc__0043_55735323935351B001E2-if00" />
+    <param name="baud" value="57600" />
+    </node>
+</launch>

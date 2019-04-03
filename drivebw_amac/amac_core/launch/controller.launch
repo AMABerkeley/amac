@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="amac_core" name="control_interface" type="control_interface.py">
+  </node>
+  <node pkg="amac_core" name="twist_control" type="twistocmd.py">
+  </node>
+</launch>

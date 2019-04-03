@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>amac_core</name>
+  <version>0.0.0</version>
+  <description>The amac_core metapackage contains all the basic software for running and using the AMAC autonomous system</description>
+
+  <maintainer email="phil80301@berkeley.edu">Philipp Wu</maintainer>
+
+  <license>BSD</license>
+
+  <author email="phil80301@berkeley.edu">Philipp Wu</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+</package>
