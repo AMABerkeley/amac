@@ -1,0 +1,3 @@
+[submodule "drivebw_amac/amac_arduino"]
+	path = drivebw_amac/amac_arduino
+	url = https://github.com/AMABerkeley/amac_arduino.git
